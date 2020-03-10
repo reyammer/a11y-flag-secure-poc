@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Victim</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_secure">SecureActivity</string>
+    <string name="title_activity_non_secure">NonSecureActivity</string>
+</resources>
